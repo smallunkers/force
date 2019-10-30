@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "module": "commonjs",
+    "target": "es5",
+    "lib": ["es5", "es6", "es7", "dom"],
+    "jsx": "react",
+    "sourceMap": false,
+    "removeComments": true,
+    "alwaysStrict": true,
+    "stripInternal": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "noFallthroughCasesInSwitch": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "code": 0,
+  "success": true,
+  "content": {
+    "node": [
+      {
+        "id": "132800000134515",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "张素丽与李国琴等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": null,
+        "sentenceDate": "2014-03-25"
+      },
+      {
+        "id": "133800000014304",
+        "group": "case",
+        "type": 1,
+        "round": 2,
+        "tag": 1,
+        "name": "林雪影与赖圣利民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2012-12-13",
+        "sentenceDate": "2013-04-15"
+      },
+      {
+        "id": "133800000014868",
+        "group": "case",
+        "type": 2,
+        "round": 2,
+        "tag": 1,
+        "name": "林金章与李建平民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2013-02-20",
+        "sentenceDate": "2013-03-25"
+      },
+      {
+        "id": "133800000015903",
+        "group": "case",
+        "type": 2,
+        "round": 2,
+        "tag": 1,
+        "name": "蔡招福与谢墩倾民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2013-05-20",
+        "sentenceDate": "2013-09-23"
+      },
+      {
+        "id": "133800000022999",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "夏克燕与李国琴等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2015-07-30",
+        "sentenceDate": "2016-02-24"
+      },
+      {
+        "id": "133800000023002",
+        "group": "case",
+        "type": 1,
+        "round": 4,
+        "tag": 1,
+        "name": "夏克燕与章秀琴等民间借贷纠纷",
+        "relationCount": 4,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2015-07-30",
+        "sentenceDate": "2016-02-24"
+      },
+      {
+        "id": "133800000023004",
+        "group": "case",
+        "type": 3,
+        "round": 3,
+        "tag": 1,
+        "name": "夏克燕与赖圣利等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2015-07-30",
+        "sentenceDate": "2015-09-01"
+      },
+      {
+        "id": "133800000026678",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "李孙君与林雪影等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2016-07-07",
+        "sentenceDate": "2016-08-10"
+      },
+      {
+        "id": "133800000027896",
+        "group": "case",
+        "type": 1,
+        "round": 2,
+        "tag": 1,
+        "name": "曾细娥与谢墩倾民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2016-10-13",
+        "sentenceDate": "2016-11-29"
+      },
+      {
+        "id": "133800000028736",
+        "group": "case",
+        "type": 3,
+        "round": 3,
+        "tag": 1,
+        "name": "钱金红与林雪影等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-01-06",
+        "sentenceDate": "2017-06-06"
+      },
+      {
+        "id": "133800000028737",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "叶美玲与林雪影等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-01-06",
+        "sentenceDate": "2017-06-05"
+      },
+      {
+        "id": "133800000028739",
+        "group": "case",
+        "type": 3,
+        "round": 3,
+        "tag": 1,
+        "name": "卢晓英与林雪影等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-01-06",
+        "sentenceDate": "2017-06-05"
+      },
+      {
+        "id": "133800000029857",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "沈志树与陶亚斌等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-04-13",
+        "sentenceDate": "2017-10-20"
+      },
+      {
+        "id": "133800000030320",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "周仕敏与陶亚斌等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-05-11",
+        "sentenceDate": "2017-10-23"
+      },
+      {
+        "id": "133800000030703",
+        "group": "case",
+        "type": 3,
+        "round": 3,
+        "tag": 1,
+        "name": "叶小灵与陶亚斌等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-06-09",
+        "sentenceDate": "2017-09-19"
+      },
+      {
+        "id": "133800000030704",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "黄途与陶亚斌等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-06-09",
+        "sentenceDate": "2017-09-19"
+      },
+      {
+        "id": "133800000030705",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "夏海燕与陶亚斌等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-06-09",
+        "sentenceDate": "2017-09-19"
+      },
+      {
+        "id": "133800000031274",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "吴开广与陶亚斌等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-07-26",
+        "sentenceDate": "2017-09-18"
+      },
+      {
+        "id": "133800000032427",
+        "group": "case",
+        "type": 2,
+        "round": 2,
+        "tag": 1,
+        "name": "林金章与谢墩倾民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2017-10-26",
+        "sentenceDate": "2017-12-15"
+      },
+      {
+        "id": "133800000034541",
+        "group": "case",
+        "type": 1,
+        "round": 2,
+        "tag": 1,
+        "name": "吴德盟与陶亚斌民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2018-04-17",
+        "sentenceDate": "2018-06-11"
+      },
+      {
+        "id": "133800000035287",
+        "group": "case",
+        "type": 1,
+        "round": 2,
+        "tag": 1,
+        "name": "陶祖新与陶亚斌民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2018-06-13",
+        "sentenceDate": "2018-08-16"
+      },
+      {
+        "id": "133800000035320",
+        "group": "case",
+        "type": 1,
+        "round": 3,
+        "tag": 1,
+        "name": "钱金红与陶亚斌等民间借贷纠纷",
+        "relationCount": 3,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2018-06-15",
+        "sentenceDate": "2018-08-10"
+      },
+      {
+        "id": "133820180301000050",
+        "group": "case",
+        "type": 1,
+        "round": 2,
+        "tag": 1,
+        "name": "郑晓笑与陶亚斌民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2018-06-22",
+        "sentenceDate": "2018-08-10"
+      },
+      {
+        "id": "133820180301000221",
+        "group": "case",
+        "type": 1,
+        "round": 2,
+        "tag": 1,
+        "name": "丁仕明与陶亚斌民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2018-07-05",
+        "sentenceDate": "2018-09-27"
+      },
+      {
+        "id": "133820180301000384",
+        "group": "case",
+        "type": 1,
+        "round": 2,
+        "tag": 1,
+        "name": "林细东与陶亚斌民间借贷纠纷",
+        "relationCount": 2,
+        "caseCause": 1,
+        "judgeLevel": 1,
+        "registerDate": "2018-07-18",
+        "sentenceDate": "2018-09-03"
+      },
+      {
+        "id": "330205196702050034",
+        "group": "party",
+        "type": 2,
+        "round": 1,
+        "tag": 0,
+        "name": "周仕敏",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329195007304030",
+        "group": "party",
+        "type": 1,
+        "round": 3,
+        "tag": 0,
+        "name": "谢墩倾",
+        "relationCount": 3,
+        "isLender": 0
+      },
+      {
+        "id": "33032919600320001X",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "丁仕明",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329196012300012",
+        "group": "party",
+        "type": 2,
+        "round": 2,
+        "tag": 0,
+        "name": "林金章",
+        "relationCount": 2,
+        "isLender": 0
+      },
+      {
+        "id": "330329196208221930",
+        "group": "party",
+        "type": 2,
+        "round": 1,
+        "tag": 0,
+        "name": "李孙君",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329196503211233",
+        "group": "party",
+        "type": 2,
+        "round": 1,
+        "tag": 0,
+        "name": "蔡招福",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329196601060029",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "卢晓英",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329196603101437",
+        "group": "party",
+        "type": 1,
+        "round": 12,
+        "tag": 1,
+        "name": "陶亚斌",
+        "relationCount": 12,
+        "isLender": 0,
+        "mark": true
+      },
+      {
+        "id": "330329196711261948",
+        "group": "party",
+        "type": 1,
+        "round": 7,
+        "tag": 1,
+        "name": "林飞燕",
+        "relationCount": 7,
+        "isLender": 0
+      },
+      {
+        "id": "330329196712254635",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "林细东",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329196802240026",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "叶美玲",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329196906071335",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "吴德盟",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197101040018",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "吴开广",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197103054042",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "曾细娥",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197112251435",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "黄途",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197207111240",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "张素丽",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197305100019",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "沈志树",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197310316236",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "陶祖新",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "33032919750210633X",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "叶小灵",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197502225638",
+        "group": "party",
+        "type": 1,
+        "round": 3,
+        "tag": 0,
+        "name": "夏海宁",
+        "relationCount": 3,
+        "isLender": 0
+      },
+      {
+        "id": "330329197602035145",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "夏海燕",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197604201944",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "章秀琴",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329197612010021",
+        "group": "party",
+        "type": 1,
+        "round": 2,
+        "tag": 0,
+        "name": "钱金红",
+        "relationCount": 2,
+        "isLender": 0
+      },
+      {
+        "id": "330329197708101948",
+        "group": "party",
+        "type": 1,
+        "round": 5,
+        "tag": 1,
+        "name": "林雪影",
+        "relationCount": 5,
+        "isLender": 0
+      },
+      {
+        "id": "330329197807300029",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "郑晓笑",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "33032919790911194X",
+        "group": "party",
+        "type": 1,
+        "round": 3,
+        "tag": 0,
+        "name": "李国琴",
+        "relationCount": 3,
+        "isLender": 0
+      },
+      {
+        "id": "330329198208142529",
+        "group": "party",
+        "type": 1,
+        "round": 1,
+        "tag": 0,
+        "name": "王秋晓",
+        "relationCount": 1,
+        "isLender": 0
+      },
+      {
+        "id": "330329198212170012",
+        "group": "party",
+        "type": 1,
+        "round": 3,
+        "tag": 0,
+        "name": "夏克燕",
+        "relationCount": 3,
+        "isLender": 0
+      },
+      {
+        "id": "330329198308051739",
+        "group": "party",
+        "type": 1,
+        "round": 2,
+        "tag": 0,
+        "name": "赖圣利",
+        "relationCount": 2,
+        "isLender": 0
+      },
+      {
+        "id": "610522197604019812",
+        "group": "party",
+        "type": 1,
+        "round": 5,
+        "tag": 1,
+        "name": "李建平",
+        "relationCount": 5,
+        "isLender": 0
+      }
+    ],
+    "link": [
+      {
+        "target": "132800000134515",
+        "source": "330329197207111240",
+        "group": 1
+      },
+      {
+        "target": "132800000134515",
+        "source": "330329197502225638",
+        "group": 2
+      },
+      {
+        "target": "132800000134515",
+        "source": "33032919790911194X",
+        "group": 2
+      },
+      {
+        "target": "133800000014304",
+        "source": "330329197708101948",
+        "group": 1
+      },
+      {
+        "target": "133800000014304",
+        "source": "330329198308051739",
+        "group": 2
+      },
+      {
+        "target": "133800000014868",
+        "source": "330329196012300012",
+        "group": 1
+      },
+      {
+        "target": "133800000014868",
+        "source": "610522197604019812",
+        "group": 2
+      },
+      {
+        "target": "133800000015903",
+        "source": "330329195007304030",
+        "group": 2
+      },
+      {
+        "target": "133800000015903",
+        "source": "330329196503211233",
+        "group": 1
+      },
+      {
+        "target": "133800000022999",
+        "source": "330329197502225638",
+        "group": 2
+      },
+      {
+        "target": "133800000022999",
+        "source": "33032919790911194X",
+        "group": 2
+      },
+      {
+        "target": "133800000022999",
+        "source": "330329198212170012",
+        "group": 1
+      },
+      {
+        "target": "133800000023002",
+        "source": "330329197502225638",
+        "group": 2
+      },
+      {
+        "target": "133800000023002",
+        "source": "330329197604201944",
+        "group": 2
+      },
+      {
+        "target": "133800000023002",
+        "source": "33032919790911194X",
+        "group": 2
+      },
+      {
+        "target": "133800000023002",
+        "source": "330329198212170012",
+        "group": 1
+      },
+      {
+        "target": "133800000023004",
+        "source": "330329198208142529",
+        "group": 2
+      },
+      {
+        "target": "133800000023004",
+        "source": "330329198212170012",
+        "group": 1
+      },
+      {
+        "target": "133800000023004",
+        "source": "330329198308051739",
+        "group": 2
+      },
+      {
+        "target": "133800000026678",
+        "source": "330329196208221930",
+        "group": 1
+      },
+      {
+        "target": "133800000026678",
+        "source": "330329197708101948",
+        "group": 3
+      },
+      {
+        "target": "133800000026678",
+        "source": "610522197604019812",
+        "group": 2
+      },
+      {
+        "target": "133800000027896",
+        "source": "330329195007304030",
+        "group": 2
+      },
+      {
+        "target": "133800000027896",
+        "source": "330329197103054042",
+        "group": 1
+      },
+      {
+        "target": "133800000028736",
+        "source": "330329197612010021",
+        "group": 3
+      },
+      {
+        "target": "133800000028736",
+        "source": "330329197708101948",
+        "group": 2
+      },
+      {
+        "target": "133800000028736",
+        "source": "610522197604019812",
+        "group": 2
+      },
+      {
+        "target": "133800000028737",
+        "source": "330329196802240026",
+        "group": 1
+      },
+      {
+        "target": "133800000028737",
+        "source": "330329197708101948",
+        "group": 2
+      },
+      {
+        "target": "133800000028737",
+        "source": "610522197604019812",
+        "group": 2
+      },
+      {
+        "target": "133800000028739",
+        "source": "330329196601060029",
+        "group": 1
+      },
+      {
+        "target": "133800000028739",
+        "source": "330329197708101948",
+        "group": 3
+      },
+      {
+        "target": "133800000028739",
+        "source": "610522197604019812",
+        "group": 2
+      },
+      {
+        "target": "133800000029857",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000029857",
+        "source": "330329196711261948",
+        "group": 2
+      },
+      {
+        "target": "133800000029857",
+        "source": "330329197305100019",
+        "group": 1
+      },
+      {
+        "target": "133800000030320",
+        "source": "330205196702050034",
+        "group": 1
+      },
+      {
+        "target": "133800000030320",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000030320",
+        "source": "330329196711261948",
+        "group": 2
+      },
+      {
+        "target": "133800000030703",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000030703",
+        "source": "330329196711261948",
+        "group": 3
+      },
+      {
+        "target": "133800000030703",
+        "source": "33032919750210633X",
+        "group": 1
+      },
+      {
+        "target": "133800000030704",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000030704",
+        "source": "330329196711261948",
+        "group": 2
+      },
+      {
+        "target": "133800000030704",
+        "source": "330329197112251435",
+        "group": 3
+      },
+      {
+        "target": "133800000030705",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000030705",
+        "source": "330329196711261948",
+        "group": 2
+      },
+      {
+        "target": "133800000030705",
+        "source": "330329197602035145",
+        "group": 1
+      },
+      {
+        "target": "133800000031274",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000031274",
+        "source": "330329196711261948",
+        "group": 3
+      },
+      {
+        "target": "133800000031274",
+        "source": "330329197101040018",
+        "group": 1
+      },
+      {
+        "target": "133800000032427",
+        "source": "330329195007304030",
+        "group": 2
+      },
+      {
+        "target": "133800000032427",
+        "source": "330329196012300012",
+        "group": 1
+      },
+      {
+        "target": "133800000034541",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000034541",
+        "source": "330329196906071335",
+        "group": 1
+      },
+      {
+        "target": "133800000035287",
+        "source": "330329196603101437",
+        "group": 3
+      },
+      {
+        "target": "133800000035287",
+        "source": "330329197310316236",
+        "group": 1
+      },
+      {
+        "target": "133800000035320",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133800000035320",
+        "source": "330329196711261948",
+        "group": 2
+      },
+      {
+        "target": "133800000035320",
+        "source": "330329197612010021",
+        "group": 1
+      },
+      {
+        "target": "133820180301000050",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133820180301000050",
+        "source": "330329197807300029",
+        "group": 1
+      },
+      {
+        "target": "133820180301000221",
+        "source": "33032919600320001X",
+        "group": 1
+      },
+      {
+        "target": "133820180301000221",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133820180301000384",
+        "source": "330329196603101437",
+        "group": 2
+      },
+      {
+        "target": "133820180301000384",
+        "source": "330329196712254635",
+        "group": 1
+      }
+    ]
+  },
+  "message": null
+}
